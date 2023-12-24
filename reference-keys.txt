@@ -2,10 +2,14 @@ marxian-economics
 growth-models
 circulation
 critique-of-classical-political-economy
+value
+value-theory-and-value-form
+critique-of-michael-heinrich
 keynes-vs-marx
 crises
 crises-theories
 financialization-or-profitability
+development
 impotent-capital
 ground-rent-in-south-america
 inequality
